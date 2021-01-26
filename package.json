@@ -1,0 +1,24 @@
+{
+  "name": "patko",
+  "version": "1.0.0",
+  "description": "patko bot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hallerovci/Pan-Profesor-Patko.git"
+  },
+  "author": "tomu, adam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hallerovci/Pan-Profesor-Patko/issues"
+  },
+  "homepage": "https://github.com/Hallerovci/Pan-Profesor-Patko#readme",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security"
+  }
+}
